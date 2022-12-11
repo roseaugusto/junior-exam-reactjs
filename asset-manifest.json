@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/junior-exam-reactjs/static/css/main.9720da6d.css",
+    "main.js": "/junior-exam-reactjs/static/js/main.a2c40873.js",
+    "static/js/787.6a25e485.chunk.js": "/junior-exam-reactjs/static/js/787.6a25e485.chunk.js",
+    "index.html": "/junior-exam-reactjs/index.html",
+    "main.9720da6d.css.map": "/junior-exam-reactjs/static/css/main.9720da6d.css.map",
+    "main.a2c40873.js.map": "/junior-exam-reactjs/static/js/main.a2c40873.js.map",
+    "787.6a25e485.chunk.js.map": "/junior-exam-reactjs/static/js/787.6a25e485.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9720da6d.css",
+    "static/js/main.a2c40873.js"
+  ]
+}
